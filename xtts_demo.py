@@ -685,7 +685,7 @@ if __name__ == "__main__":
             )
 
     demo.launch(
-        share=False,
+        share=True,
         debug=False,
         server_port=args.port,
         # inweb=True,
